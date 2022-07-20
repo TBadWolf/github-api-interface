@@ -13,16 +13,17 @@ export const Wrapper = styled.div`
     height: 44px;
     padding: 8px;
     font-weight: 500;
+    color: white;
   }
 
   button {
-    background-color: #225ed8;
+    background-color: #2B2D31;
     padding: 8px 16px;
     margin: 0 16px;
     border-radius: 8px;
 
     &:hover {
-      background-color: #2c5282;
+      background-color: #66615F;
       box-shadow: 3px 2px 10px rgba(0, 0, 0, 0.2);
     }
 
