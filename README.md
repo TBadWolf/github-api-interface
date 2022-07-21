@@ -17,8 +17,7 @@ We will create an application using the github public api.
 ### Preview
 
 Print of the finished project.
-
-![plot](./image/snapshot-1.png)
+![image](https://user-images.githubusercontent.com/104402057/180104946-cd3ed296-e51a-420d-8206-e3795bc473a9.png)
 
 ### Libraries used
 
