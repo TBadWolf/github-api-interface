@@ -1,5 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import * as S from "./styled";
 
 import Providers from "./providers";
 
